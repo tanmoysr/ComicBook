@@ -1,18 +1,18 @@
 # ComicBook
-This repository consists of three solution.
+This repository consists of three solutions.
 1. CommicBookWeb: Based on ASP.NET MVC
 2. ComicBookManager: Based on Entity Framework
 3. CommicBookWebManager: Based on Entity Framework with ASP.NET MVC
 
 ## CommicBookWeb
-This is a gallary of comic books showing in different pages.\
+This is a gallery of comic books shown on different pages.\
 Home Page\
 ![Home](./OutputPics/Web/Home.png)\
 Book Detail\
 ![Detail](./OutputPics/Web/BookDetail.png)
 
 ## ComicBookManager
-This is a console app to do CRUD operation in a database.\
+This is a console app to do CRUD operations in a database.\
 Home\
 ![Home](./OutputPics/Manager/Home.png)\
 Book Detail\
@@ -21,7 +21,7 @@ Add\
 ![Add](./OutputPics/Manager/Add.png)
 
 ## CommicBookWebManager
-This is a web app to do CRUD operation in a database.
+This is a web app to do CRUD operations in a database.
 ### Comic Books
 Starting Page\
 ![Home](./OutputPics/ManagerWeb/ManagerHome.PNG)\
